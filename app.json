@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MapNav",
+    "slug": "mapnav-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0B1020"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mapnav.app"
+    },
+    "android": {
+      "package": "com.mapnav.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
